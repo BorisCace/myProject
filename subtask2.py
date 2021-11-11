@@ -25,5 +25,7 @@ else: #else calc mean
     a = s/n
 
 print (n,s,m,a) #print all values
+
+#it looks like I learned how to use git today
     
     

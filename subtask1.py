@@ -11,3 +11,5 @@ if q*q == n: #if equal print q^2
 else: #if not subtract 1 from q and square
     q = q -1
     print(q*q)
+    
+#it looks like I learned how to use git today
